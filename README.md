@@ -52,7 +52,7 @@ and LLM fine-tuning**.
 - Generative Adversarial Networks (GANs)
 - Diffusion Models
 
-**[Open HW2 Part 2 Folder](HW2-Part2/)**
+**[Open HW2 Part 2 Folder](HW2-part2/)**
 
 ------------------------------------------------------------------------
 

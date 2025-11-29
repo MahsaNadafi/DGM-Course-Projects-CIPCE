@@ -14,11 +14,11 @@ and LLM fine-tuning**.
 
 ------------------------------------------------------------------------
 
-## 📁 Repository Structure
+## Repository Structure
 
     dgm_course_2023/
     │
-    ├── HW1/
+    ├── HWn/
     │   ├── report.pdf
     │   ├── codes.ipynb or .py
     │
@@ -28,17 +28,18 @@ and LLM fine-tuning**.
 
 ## Homework 1
 
-**Topics Covered** - Probabilistic Graphical Models\
-- Causality\
+**Topics Covered** - Probabilistic Graphical Models
+- Causality
 - Variational Inference
 
 **[Open HW1 Folder](HW1/)**
 
 ------------------------------------------------------------------------
 
-## Homework 2 --- Part 1
+## Homework 2
 
-**Topics Covered** - Variational Autoencoders (VAE)\
+**Topics Covered** 
+- Variational Autoencoders (VAE)
 - Normalizing Flows
 
 **[Open HW2 Part 1 Folder](HW2-Part1/)**
@@ -47,7 +48,8 @@ and LLM fine-tuning**.
 
 ## Homework 2 --- Part 2
 
-**Topics Covered** - Generative Adversarial Networks (GANs)\
+**Topics Covered** 
+- Generative Adversarial Networks (GANs)
 - Diffusion Models
 
 **[Open HW2 Part 2 Folder](HW2-Part2/)**
@@ -56,8 +58,8 @@ and LLM fine-tuning**.
 
 ## Homework 3
 
-**Topics Covered** - Fine-tuning LLMs using LoRA / PEFT\
-- Prompt Engineering\
+**Topics Covered** 
+- Fine-tuning LLMs using LoRA and Prompt Engineering
 - SpeechT5 Text-to-Speech (TTS) Fine-tuning
 
 **[Open HW3 Folder](HW3/)**

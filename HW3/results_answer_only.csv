@@ -1,0 +1,592 @@
+prompt,target,model_output
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Joao Moutinho caught the screen pass in the NFC championship
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Carlos Correa struck out the side
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Brandin Cooks backhanded a shot
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jesus Luzardo was out at third
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Derek Carr hit the screen pass in the Superbowl
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathieu Valbuena scored a windmill dunk in the Western Conference Finals
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Javi Martinez launched the desperation heave
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Robert Covington was called for icing
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Sam Darnold scored on the power play in the Stanley Cup
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jack Flaherty hit a walkoff homer
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Igor Shesterkin launched a hail mary
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Xander Bogaerts shot the puck
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Malcolm Brogdon ran out of bounds
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Matt Ryan scored a penalty kick
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield got into the endzone
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Stephan El Shaarawy scored a corner kick
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Wayne Rooney shot from outside the eighteen
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  airballed the shot in the Western Conference Finals
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jimmy Butler eurostepped to the basket
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Lonzo Ball took a long two
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Connor McDavid scored a penalty kick
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Ramires scored a header goal
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: LeBron James took a corner kick
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Giorgio Chiellini committed a handball in the FA Cup
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Freddie Freeman worked a full count
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  drove into the restricted area
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Hulk got on base
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jesus Luzardo headed back to the dugout
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Claude Giroux stepped on first base
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathieu Valbuena shot from outside the eighteen
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Bastian Schweinsteiger earned a direct kick
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Trout hit a walkoff homer
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Franck Ribery performed a slide tackle
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Michael Porter Jr. called for the screen
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: J.T. Miller took a three
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Cam Newton killed the powerplay
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Nick Castellanos scored in extra time
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Timo Meier took a backhand shot in the Stanley Cup
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Arjen Robben earned a direct kick
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Sonny Gray flew out to center
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Victor Wanyama took a left footed shot
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Terry Rozier  shot from beyond the arc in the Western Conference Finals
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Willian performed a cruyff turn in the Champions Leage Semifinal
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: De'Aaron Fox scored a bicycle kick
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Gerrit Cole set the hard screen
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Igor Shesterkin wristed a shot
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Dejounte Murray took a left footed shot
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Conley called for the screen
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Kyle Anderson caught the screen pass
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Deandre Ayton was perfect from the line in the Eastern Conference Finals
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Allen Robinson gained five yards
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Patrice Bergeron converted the first down
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Juan Soto scored in the shootout
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jake Guentzel committed a three second violation
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Gerrit Cole converted the double play
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Nerlens Noel went for it on fourth down
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Tuukka Rask killed the powerplay
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathieu Valbuena was caught offsides
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Joey Gallo was perfect from the line
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mika Zibanejad performed a give and go in the FA Cup
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Marouane Fellaini scored in extra time
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Devin Booker took to the ice
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Alex DeBrincat performed a give and go
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Klaas Jan Huntelaar shot with the left foot
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Deshaun Watson was called for icing
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Brad Hand hit the wheel route
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Aaron Nola hit a walkoff homer
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Tyler Glasnow watched the pitch go by
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Fred VanVleet scored a freekick in the Champions League Final
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Chris Kreider got on the end of a through ball
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Terry McLaurin took a long two
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: DJ Moore earned a direct kick
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jaylen Brown hit the buzzer beater in the NBA Championship
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Juan Mata got on the end of a through ball
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Thiago Silva hit a single
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Anders Lee went in studs up in the Champions League Final
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Bastian Schweinsteiger scored in added time
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Oscar scored in the third period
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: William Nylander skated behind the net
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Ben Roethlisberger lost control of the puck
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Manny Machado comitted an offensive foul in the Eastern Conference Finals
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Santi Cazorla called for the screen
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Eden Hazard hit the buzzer beater
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Tom Wilson backhanded a shot
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Buddy Hield crossed the blue line
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Deshaun Watson was flagged on the play
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Dwayne Haskins went for it on fourth down
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Zion Williamson scored the easy layup
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Fernando Tatis Jr. earned a red card
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: John Carlson fumbled the ball
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Aaron Rodgers was flagged on the play
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: William Nylander crossed the blue line
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Deshaun Watson was called for the goal tend in the Eastern Conference Finals
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Karl-Anthony Towns committed a blocking foul
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mecole Hardman threw a touchdown
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Deandre Ayton hit the back shoulder fade in the Superbowl
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: De'Aaron Fox airballed the shot
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Wesley Sneijder got on base in the American League Championship Series
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathew Barzal backhanded a shot
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Ozzie Albies pitched a complete game
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Bryce Harper hit a double in the American League Championship Series
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Gerard Pique gained five yards in the NFC championship
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Brandin Cooks was safe at home
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Myles Turner committed a blocking foul
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Zack Greinke struck out
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Alex Pietrangelo took a backhand shot
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonathan Marchessault skated backwards
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Joao Moutinho scored a freekick
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Chris Godwin was caught in a rundown in the American League Championship Series
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Moustakas watched the pitch go by
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Aleksander Barkov took to the ice
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Sean Monahan hit the wheel route
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Cale Makar hit into a double play
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Cale Makar earned a trip to the penalty box
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mark Stone spent time in the penalty box in the Stanley Cup
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: DJ Chark caught the back shoulder fade in the NFC divisional round
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mats Hummels shot from outside the eighteen
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Santi Cazorla scored a touchdown
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Trae Young committed a blocking foul in the NBA Championship
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Brent Burns hit a double
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: DeVante Parker was called for icing
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonathan Marchessault beat the buzzer in the NBA Championship
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Roman Josi scored a windmill dunk
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Fernando Tatis Jr. hit a walkoff homer
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Wesley Sneijder hit the wheel route
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Frederik Andersen converted the first down
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Evans ran out of bounds
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jared Goff scored in added time
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mikal Bridges backhanded a shot
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Nick Foles changed direction in the backfield
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Didier Drogba got into the endzone
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Stephen Strasburg performed a cruyff turn
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mookie Betts scored on the power play
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Manny Machado hit a homerun
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Marouane Fellaini struck out
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Marcelo earned a yellow card in the FA Cup
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mapou Yanga-M'Biwa did a double stepover
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  swung to protect the runner
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Pedro struck out the side
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Yordan Alvarez was safe at first
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Toni Kroos was caught offsides
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Kevin Durant scored a penalty kick
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Stefon Diggs hit the slant pass
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jaren Jackson Jr. eurostepped to the basket in the NBA Championship
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jayson Tatum nutmegged the defender
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Arjen Robben crossed the blue line in the Stanley Cup
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonas Valanciunas nutmegged the defender
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Brady Tkachuk scored a header goal
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: LaMelo Ball launched the half court shot in the Western Conference Finals
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mitchell Trubisky caught the screen pass
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Domantas Sabonis went for it on fourth down in the NFC divisional round
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jared Goff fumbled the ball
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jerry Jeudy scored on the power play
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Carson Wentz took to the ice
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jordan Binnington scored in the third period
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Rhys Hoskins scored a bicycle kick
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Wayne Rooney watched the pitch go by
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Cavan Biggio went in studs up
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Kyle Palmieri was called for slashing
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Fernandinho took an elbow jumper
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jarrett Allen pitched a complete game in the National League Championship Series
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Tom Brady was safe at first
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Gleyber Torres hit a double
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Amari Cooper headed back to the dugout
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Malcolm Brogdon took a charge
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Stephan El Shaarawy shot with the left foot
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Blake Wheeler took a three
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Terry McLaurin was called for slashing
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Kevin Durant comitted an offensive foul
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Tuukka Rask was safe at home in the World Series
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Eugenio Suarez pitched a complete game
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Patrick Kane caught the screen pass
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jacob Markstrom backhanded a shot
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Devin Booker shot a free throw in the NBA Championship
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jacob Markstrom entered the attacking zone in the Stanley Cup
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Josh Allen caught the screen pass
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Didier Drogba hit nothing but net
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Javi Martinez nutmegged the defender
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jose Ramirez hit into a double play in the National League Championship Series
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield committed a blocking foul in the NBA Championship
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: A.J. Green hit the back shoulder fade in the Superbowl
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Adam Thielen hit the screen pass
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Neymar went for it on fourth down
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Fred VanVleet took to the ice
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  watched the pitch go by
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonathan Marchessault went five hole
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Clint Capela got into the endzone
+Plausible/implausible?",implausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Philipp Lahm did a maradona on the defender
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Lionel Messi was called for icing
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Keenan Allen launched a hail mary
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jaylen Brown comitted a three second violation
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Patrick Kane backhanded a shot in the Stanley Cup
+Plausible/implausible?",plausible,plausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mark Scheifele skated backwards
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Juan Mata walked on ball four
+Plausible/implausible?",implausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Tuukka Rask crossed the blue line
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jamal Murray went one for two from the line in the Eastern Conference Finals
+Plausible/implausible?",plausible,implausible
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Pepe converted the first down
+Plausible/implausible?",implausible,implausible

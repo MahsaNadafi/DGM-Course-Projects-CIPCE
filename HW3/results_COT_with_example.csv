@@ -1,0 +1,3744 @@
+prompt,target,model_output,model_answer
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Joao Moutinho caught the screen pass in the NFC championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,"The NFC championship is a football game, not a soccer game. So the answer is implausible",implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Carlos Correa struck out the side
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Carlos Correa is a baseball player and not a baseball player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Brandin Cooks backhanded a shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Brandin Cooks is a professional baseball player and he has never backhanded a shot. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jesus Luzardo was out at third
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jesus Luzardo is a football player and not a baseball player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Derek Carr hit the screen pass in the Superbowl
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Derek Carr is a football player and not a screen pass receiver. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathieu Valbuena scored a windmill dunk in the Western Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Mathieu Valbuena is a basketball player and not a windmill dunker. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Javi Martinez launched the desperation heave
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,The sentence is plausible because it is a fact that Javi Martinez has launched the desperation heave. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Robert Covington was called for icing
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Icing is a dish that is not cooked. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Sam Darnold scored on the power play in the Stanley Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Sam Darnold is a player in the NHL and the Stanley Cup is a hockey competition. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jack Flaherty hit a walkoff homer
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jack Flaherty is a baseball player and a walkoff homer is a walkoff. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Igor Shesterkin launched a hail mary
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Igor Shesterkin was a Russian cosmonaut and not a hail mary launcher. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Xander Bogaerts shot the puck
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Xander Bogaerts is a hockey player and he is a professional. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Malcolm Brogdon ran out of bounds
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Malcolm Brogdon is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Matt Ryan scored a penalty kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Matt Ryan is a football player and a penalty kick is a kick that is scored. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield got into the endzone
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Baker Mayfield is a football player and he is able to get into the endzone. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Stephan El Shaarawy scored a corner kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Stephan El Shaarawy is a footballer and not a soccer player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Wayne Rooney shot from outside the eighteen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Wayne Rooney is a footballer and not a politician. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  airballed the shot in the Western Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Zach LaVine is a professional basketball player and he has never airballed a shot. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jimmy Butler eurostepped to the basket
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Eurostepped is a basketball move that requires a person to step on the ball. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Lonzo Ball took a long two
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,It is not possible to know for sure that Lonzo Ball took a long two. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Connor McDavid scored a penalty kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Connor McDavid is a football player and a penalty kick is a kick that is scored. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Ramires scored a header goal
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Ramires is a footballer who scored a header goal. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: LeBron James took a corner kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,LeBron James is a basketball player and would not take a corner kick. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Giorgio Chiellini committed a handball in the FA Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Giorgio Chiellini is a footballer and not a handball player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Freddie Freeman worked a full count
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Freddie Freeman was a famous actor and worked a full count. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  drove into the restricted area
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Zach LaVine is a basketball player and would not be allowed to drive in a restricted area. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Hulk got on base
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Hulk is a fictional character and not a real person. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jesus Luzardo headed back to the dugout
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jesus Luzardo is a football player and he is in the dugout. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Claude Giroux stepped on first base
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Claude Giroux is a baseball player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathieu Valbuena shot from outside the eighteen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mathieu Valbuena is a footballer and not a soccer player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Bastian Schweinsteiger earned a direct kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Bastian Schweinsteiger is a footballer and not a kicker. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Trout hit a walkoff homer
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mike Trout is a baseball player and he hit a walkoff homer. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Franck Ribery performed a slide tackle
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Slide tackles are not performed by people. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Michael Porter Jr. called for the screen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,The screen is a device that is used to show movies. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: J.T. Miller took a three
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,J.T. Miller is a football player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Cam Newton killed the powerplay
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Cam Newton is a football player and not a power play killer. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Nick Castellanos scored in extra time
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Nick Castellanos is a football player and he scored in extra time. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Timo Meier took a backhand shot in the Stanley Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Timo Meier is a hockey player and not a hockey player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Arjen Robben earned a direct kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Arjen Robben is a footballer and not a kicker. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Sonny Gray flew out to center
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Sonny Gray is a football player and not a footballer. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Victor Wanyama took a left footed shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Victor Wanyama is a footballer who plays as a left footed player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Terry Rozier  shot from beyond the arc in the Western Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Terry Rozier is a basketball player and he is a professional basketball player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Willian performed a cruyff turn in the Champions Leage Semifinal
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Willian is a footballer and not a cruyff turn performer. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: De'Aaron Fox scored a bicycle kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,De'Aaron Fox is a football player and not a cyclist. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Gerrit Cole set the hard screen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Gerrit Cole is a football player and not a hard screen. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Igor Shesterkin wristed a shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Igor Shesterkin is a football player and a football player does not wrist a shot. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Dejounte Murray took a left footed shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Dejounte Murray is a soccer player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Conley called for the screen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mike Conley is a football player and a screen is a device used to show football. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Kyle Anderson caught the screen pass
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Kyle Anderson caught the screen pass because he was a quarterback. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Deandre Ayton was perfect from the line in the Eastern Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Deandre Ayton was a great player and was a perfect guard. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Allen Robinson gained five yards
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Allen Robinson is a football player and he is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Patrice Bergeron converted the first down
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Bergeron is a player who is a forward. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Juan Soto scored in the shootout
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Juan Soto is a soccer player and he scored in the shootout. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jake Guentzel committed a three second violation
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Jake Guentzel is a professional baseball player who has committed many violations. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Gerrit Cole converted the double play
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Gerrit Cole is a baseball player and would not have converted a double play. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Nerlens Noel went for it on fourth down
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Nerlens Noel is a football player and would not go for it. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Tuukka Rask killed the powerplay
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Tuukka Rask is a hockey player and not a power play player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathieu Valbuena was caught offsides
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mathieu Valbuena was caught offsides in a soccer match. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Joey Gallo was perfect from the line
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Joey Gallo is a football player and not a lineman. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mika Zibanejad performed a give and go in the FA Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Mika Zibanejad is a footballer and not a soccer player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Marouane Fellaini scored in extra time
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Marouane Fellaini scored in extra time in the Champions League. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Devin Booker took to the ice
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Devin Booker is a politician and not a hockey player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Alex DeBrincat performed a give and go
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Alex DeBrincat is a hockey player and a give and go is a hockey move. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Klaas Jan Huntelaar shot with the left foot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Klaas Jan Huntelaar is a footballer who played with the left foot. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Deshaun Watson was called for icing
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Deshaun Watson was called for icing in a game. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Brad Hand hit the wheel route
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Brad Hand is a professional golfer and not a person. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Aaron Nola hit a walkoff homer
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Aaron Nola is a baseball player and a walkoff homer is a walkoff. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Tyler Glasnow watched the pitch go by
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Glasnow is a baseball player and would not be able to watch a pitch go by. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Fred VanVleet scored a freekick in the Champions League Final
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Fred VanVleet is a footballer and not a soccer player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Chris Kreider got on the end of a through ball
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Chris Kreider is a baseball player and a through ball is a ball that is passed by a batter. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Terry McLaurin took a long two
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,It is not possible to know for sure that Terry McLaurin took a long two. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: DJ Moore earned a direct kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,DJ Moore is a professional boxer and would not be able to kick someone. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jaylen Brown hit the buzzer beater in the NBA Championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jaylen Brown is a basketball player and not a buzzer beater. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Juan Mata got on the end of a through ball
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Juan Mata is a footballer and a through ball is a ball that is passed. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Thiago Silva hit a single
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,It is impossible to hit a single. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Anders Lee went in studs up in the Champions League Final
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Anders Lee is a footballer and not a studs person. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Bastian Schweinsteiger scored in added time
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Bastian Schweinsteiger is a footballer and scored in added time. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Oscar scored in the third period
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Oscar is a football player and would not be able to score in the third period. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: William Nylander skated behind the net
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,William Nylander is a hockey player and not a skater. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Ben Roethlisberger lost control of the puck
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,It is not possible for a player to lose control of the puck. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Manny Machado comitted an offensive foul in the Eastern Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Manny Machado is a professional baseball player and would not commit an offensive foul. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Santi Cazorla called for the screen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Santi Cazorla is a soccer player and he is a soccer player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Eden Hazard hit the buzzer beater
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Eden Hazard is a basketball player and not a buzzer beater. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Tom Wilson backhanded a shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Tom Wilson is a professional baseball player and he backhanded a shot. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Buddy Hield crossed the blue line
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Buddy Hield is a football player and not a person. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Deshaun Watson was flagged on the play
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Deshaun Watson was flagged on the play. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Dwayne Haskins went for it on fourth down
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Dwayne Haskins is a quarterback and he would not go for it. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Zion Williamson scored the easy layup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Zion Williamson is a basketball player and a layup is a type of shot. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Fernando Tatis Jr. earned a red card
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,The sentence is plausible because there is evidence that he did receive a red card. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: John Carlson fumbled the ball
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,John Carlson is a football player and fumbled the ball. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Aaron Rodgers was flagged on the play
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Aaron Rodgers was flagged on the play. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: William Nylander crossed the blue line
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,William Nylander is a fictional character and cannot be crossed. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Deshaun Watson was called for the goal tend in the Eastern Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Deshaun Watson was not called for the goal tend in the Eastern Conference Finals. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Karl-Anthony Towns committed a blocking foul
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Karl-Anthony Towns is a footballer who has been convicted of a crime. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mecole Hardman threw a touchdown
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mecole Hardman is a football player and he throws touchdowns. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Deandre Ayton hit the back shoulder fade in the Superbowl
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Deandre Ayton is a football player and not a football player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: De'Aaron Fox airballed the shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,De'Aaron Fox is a professional golfer and would not have been able to airbale the shot. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Wesley Sneijder got on base in the American League Championship Series
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Wesley Sneijder is a baseball player and he has played in the American League Championship Series. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mathew Barzal backhanded a shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mathew Barzal is a basketball player who backhanded a shot. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Ozzie Albies pitched a complete game
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Ozzie Albies is a baseball player and not a complete game. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Bryce Harper hit a double in the American League Championship Series
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Bryce Harper is a baseball player and he has hit a double in the American League Championship Series. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Gerard Pique gained five yards in the NFC championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Gerard Pique is a football player and not a football player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Brandin Cooks was safe at home
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Brandin Cooks was a football player and not a home owner. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Myles Turner committed a blocking foul
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Myles Turner is a professional basketball player who has committed a blocking foul. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Zack Greinke struck out
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Zack Greinke is a baseball player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Alex Pietrangelo took a backhand shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Alex Pietrangelo is a tennis player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonathan Marchessault skated backwards
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jonathan Marchessault is a skateboarder and not a backwards skater. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Joao Moutinho scored a freekick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Joao Moutinho is a footballer and a free kick is a kick that is not a free kick. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Chris Godwin was caught in a rundown in the American League Championship Series
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Chris Godwin was a baseball player in the American League Championship Series. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Moustakas watched the pitch go by
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mike Moustakas is a baseball player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Aleksander Barkov took to the ice
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Barkov is a famous ice hockey player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Sean Monahan hit the wheel route
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,The sentence is plausible because there is evidence that he did. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Cale Makar hit into a double play
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Cale Makar is a baseball player and he hit into a double play. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Cale Makar earned a trip to the penalty box
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Cale Makar is a footballer who has been in the penalty box. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mark Stone spent time in the penalty box in the Stanley Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mark Stone is a hockey player and has spent time in the penalty box. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: DJ Chark caught the back shoulder fade in the NFC divisional round
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,DJ Chark is a football player and not a football player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mats Hummels shot from outside the eighteen
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,The sentence is not true because there is no proof of it being true. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Santi Cazorla scored a touchdown
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Santi Cazorla is a football player and not a footballer. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Trae Young committed a blocking foul in the NBA Championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Young was a player in the NBA Championship. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Brent Burns hit a double
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,It is not possible to hit a double by Brent Burns. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: DeVante Parker was called for icing
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,DeVante Parker was a player who was called for icing. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonathan Marchessault beat the buzzer in the NBA Championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Jonathan Marchessault is a basketball player and not a basketball player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Roman Josi scored a windmill dunk
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,A windmill dunk is a basketball play that involves a player dribbling over a windmill. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Fernando Tatis Jr. hit a walkoff homer
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Fernando Tatis Jr. hit a walkoff homer in the 2017 World Series. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Wesley Sneijder hit the wheel route
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Wesley Sneijder is a baseball player and not a wheel rider. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Frederik Andersen converted the first down
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Frederik Andersen is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mike Evans ran out of bounds
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mike Evans is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jared Goff scored in added time
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Jared Goff is a football player and scored in added time. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mikal Bridges backhanded a shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Mikal Bridges is a professional tennis player who backhanded a shot. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Nick Foles changed direction in the backfield
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Nick Foles is a football player and he is a backfield player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Didier Drogba got into the endzone
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Didier Drogba is a football player and he is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Stephen Strasburg performed a cruyff turn
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Stephen Strasburg is a famous football player and he has performed a cruyff turn. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mookie Betts scored on the power play
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Mookie Betts is a player who has scored on the power play. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Manny Machado hit a homerun
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Manny Machado is a baseball player and a homerun is a baseball hit. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Marouane Fellaini struck out
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Marouane Fellaini is a footballer who has never struck out. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Marcelo earned a yellow card in the FA Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Marcelo is a footballer and the FA Cup is a football competition. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mapou Yanga-M'Biwa did a double stepover
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mapou Yanga-M'Biwa is a professional boxer and boxer. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  swung to protect the runner
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Zach LaVine is a basketball player and he is not a runner. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Pedro struck out the side
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Pedro is a baseball player and not a baseball player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Yordan Alvarez was safe at first
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Yordan Alvarez was a very dangerous player at first. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Toni Kroos was caught offsides
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Toni Kroos was a soccer player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Kevin Durant scored a penalty kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Kevin Durant is a basketball player and not a penalty kicker. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Stefon Diggs hit the slant pass
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Stefon Diggs is a football player and he is a slant pass receiver. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jaren Jackson Jr. eurostepped to the basket in the NBA Championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,"Eurostepping is a technique used in gymnastics, not basketball. So the answer is implausible",implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jayson Tatum nutmegged the defender
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Jayson Tatum is a basketball player and he is a nutmeg. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Arjen Robben crossed the blue line in the Stanley Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Arjen Robben is a hockey player and he has won the Stanley Cup. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonas Valanciunas nutmegged the defender
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,The defender is a player and he is not a person. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Brady Tkachuk scored a header goal
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Brady Tkachuk is a hockey player who scored a header goal. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: LaMelo Ball launched the half court shot in the Western Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,LaMelo Ball is a basketball player and the half court shot is a basketball move. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mitchell Trubisky caught the screen pass
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,The screen pass is a football play that is not a pass. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Domantas Sabonis went for it on fourth down in the NFC divisional round
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Domantas Sabonis is a football player and not a football player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jared Goff fumbled the ball
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jared Goff is a football player and fumbles the ball. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jerry Jeudy scored on the power play
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Jerry Jeudy is a football player and not a power play player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Carson Wentz took to the ice
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Carson Wentz is a football player and not a ice hockey player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jordan Binnington scored in the third period
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jordan Binnington is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Rhys Hoskins scored a bicycle kick
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Rhys Hoskins is a footballer and not a cyclist. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Wayne Rooney watched the pitch go by
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Wayne Rooney is a footballer and would not be able to watch the pitch. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Cavan Biggio went in studs up
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,It is not possible to wear studs up. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Kyle Palmieri was called for slashing
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,The sentence is plausible because there is evidence that he did it. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Fernandinho took an elbow jumper
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Fernandinho is a footballer and not a jumper. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jarrett Allen pitched a complete game in the National League Championship Series
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Jarrett Allen is a pitcher who has won the National League Championship Series. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Tom Brady was safe at first
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Tom Brady was a very good quarterback and was able to get the ball to the end zone. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Gleyber Torres hit a double
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Gleyber Torres is a baseball player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Amari Cooper headed back to the dugout
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Amari Cooper is a football player and would not be in the dugout. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Malcolm Brogdon took a charge
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Malcolm Brogdon is a famous football player who took a charge. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Stephan El Shaarawy shot with the left foot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,The sentence is plausible because there is evidence that it is. It is also known that El Shaarawy is a footballer. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Blake Wheeler took a three
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Blake Wheeler is a football player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Terry McLaurin was called for slashing
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,The sentence is plausible because there is evidence that Terry McLaurin was slashed. So the answer is plausible.,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Kevin Durant comitted an offensive foul
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Kevin Durant is a professional basketball player and would not commit an offensive foul. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Tuukka Rask was safe at home in the World Series
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Tuukka Rask was a defender in the World Series. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Eugenio Suarez pitched a complete game
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Eugenio Suarez is a baseball player and a complete game is not possible. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Patrick Kane caught the screen pass
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Patrick Kane caught the screen pass because he was a quarterback. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jacob Markstrom backhanded a shot
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jacob Markstrom is a professional basketball player who backhanded a shot. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Devin Booker shot a free throw in the NBA Championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Devin Booker is a basketball player and the NBA Championship is a basketball game. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jacob Markstrom entered the attacking zone in the Stanley Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jacob Markstrom is a hockey player and not a hockey player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Josh Allen caught the screen pass
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Josh Allen caught the screen pass in the NFL. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Didier Drogba hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Didier Drogba is a football player and not a net hitter. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Javi Martinez nutmegged the defender
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Javi Martinez is a footballer who has nutmegged defenders. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jose Ramirez hit into a double play in the National League Championship Series
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jose Ramirez hit into a double play in the National League Championship Series. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield committed a blocking foul in the NBA Championship
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Baker Mayfield is a football player and not a basketball player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: A.J. Green hit the back shoulder fade in the Superbowl
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,A.J. Green is a football player and not a football player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Adam Thielen hit the screen pass
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Adam Thielen is a baseball player and he hit the screen pass. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Neymar went for it on fourth down
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Neymar is a footballer and would not go for it. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Fred VanVleet took to the ice
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Fred VanVleet is a famous ice hockey player. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Zach LaVine  watched the pitch go by
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Zach LaVine is a baseball player and would not be able to watch a pitch go by. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jonathan Marchessault went five hole
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,It is impossible to go five holes. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Clint Capela got into the endzone
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Clint Capela is a football player and he is able to get into the endzone. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Philipp Lahm did a maradona on the defender
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Philipp Lahm is a footballer and not a soccer player. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Lionel Messi was called for icing
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Icing is a foul and Messi is not a foul. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Keenan Allen launched a hail mary
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Keenan Allen is a football player and not a politician. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jaylen Brown comitted a three second violation
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jaylen Brown is a football player and would not be able to commit a three second violation. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Patrick Kane backhanded a shot in the Stanley Cup
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Kane backhanded a shot in the Stanley Cup. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Mark Scheifele skated backwards
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Mark Scheifele is a hockey player and skater. So the answer is plausible,plausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Juan Mata walked on ball four
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Juan Mata is a football player and not a human being. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Tuukka Rask crossed the blue line
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Tuukka Rask is a fictional character and not a real person. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Jamal Murray went one for two from the line in the Eastern Conference Finals
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",plausible,Jamal Murray is a basketball player and not a lineman. So the answer is implausible,implausible
+"
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Baker Mayfield hit nothing but net
+Plausible/implausible?
+answer:
+Let’s think step by step
+No one can hit net.So the answer is implausible
+
+Answer the following Plausible/implausible question by reasoning step-by-step.
+inputs:
+Determine whether the following statement or statements are plausible or implausible:
+Statement: Pepe converted the first down
+Plausible/implausible?
+answer:
+Let’s think step by step
+
+",implausible,Pepe is a football player and not a footballer. So the answer is implausible,implausible

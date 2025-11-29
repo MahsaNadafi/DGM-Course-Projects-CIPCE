@@ -42,7 +42,7 @@ and LLM fine-tuning**.
 - Variational Autoencoders (VAE)
 - Normalizing Flows
 
-**[Open HW2 Part 1 Folder](HW2-Part1/)**
+**[Open HW2 Part 1 Folder](HW2/)**
 
 ------------------------------------------------------------------------
 
